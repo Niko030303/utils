@@ -1,5 +1,5 @@
 {
-  "name": "utils",
+  "name": "@widget-plus/utils",
   "version": "1.0.0",
   "description": "Utils for widget-plus",
   "main": "index.js",
