@@ -1,5 +1,5 @@
 import _ from 'lodash';
 
-export default function max(arr) {
+export default function Max(arr) {
   return _.max(arr);
 }
